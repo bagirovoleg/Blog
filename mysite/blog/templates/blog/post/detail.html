@@ -6,5 +6,5 @@
         Published {{ post.publish }} by {{ post.author }}
     </p>
 {{ post.body|linebreaks }}
-{% include "pagination.html" with page=posts %}
+{% include "pagination.html" with page=page_obj %}
 {% endblock %}

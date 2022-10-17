@@ -1,12 +1,16 @@
 # Blog_Djangogirls
-<h2>Aplikacja webowa z "Kurs Django Girls".</h2>
+<h2>Aplikacja webowa BLOG.</h2>
 <p></p>
 <h2>Witaj</h2>
 <p></p>
-Ta aplikacja zrobiona z "Kurs Django Girls" https://tutorial.djangogirls.org/.
-<p></p>
-<ul>W aplikacji bedą nastęmpujące funkcji:</ul>
-    <li><img src="https://share.getcloudapp.com/BluW7Dm7" alt="" sizes="" srcset="" height=”800px”></li>
-    <li>Strona ze wszystkimi postami bloga z datą publikacji itd.</li>
-    <li>Wgląd do poszczególnego wpisu.</li>
-    <li>Dodawanie i korekta posta.</li>
+<ul>Ver 1.0:</ul>
+    <li>Creating an administrator site</li>
+    <li>Working with requests and manager</li>
+    <li>Create views, templates, URLs</li>
+    <li>Added pagination/li>
+
+<ul>Ver 2.0:</ul>
+    <li>Sending email messages</li>
+    <li>Creating forms from models and processing them in views</li>
+    <li>Creating complex QuerySets</li>
+    <li>3-th party application integration</li>
